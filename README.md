@@ -1,7 +1,9 @@
 search is temporarily unavailable. please use DOI or direct links
+
 search temporarily unavailable, please use DOI or direct links
 
 If you're using Google chrome, you can install Sci-Hub extension to use search.
+
 To do this:
 
 Download the extension and unpack it. You get the "Sci-Hub" folder with code.
@@ -13,6 +15,7 @@ Highlight the folder "Sci-Hub" (do not enter it) and click "Open".
 Done. Go back to sci-hub.ru and use search!
 
 If you are using Google Chrome, you can install the extension to make the search work
+
 How to:
 
 Download the extension and unpack the archive. The "Sci-Hub" folder will appear.
